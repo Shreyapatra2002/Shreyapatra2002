@@ -84,23 +84,4 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://github.com/shreyapatra2002/shreyapatra2002/blob/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
-</div>
-
-<!-- Coding Journey -->
-<h2 align="center">💻 Coding Journey 💻</h2>
-<div align="center">
-
-```javascript
-const shreya = {
-  pronouns: "she" | "her",
-  code: ["JavaScript", "TypeScript", "HTML", "CSS", "Java", "C++"],
-  frameworks: ["React", "React Native", "Node.js", "Angular", "Express", "Next.js"],
-  databases: ["MongoDB", "MySQL", "PostgreSQL", "Firebase"],
-  tools: ["Git", "Figma", "Postman", "Android Studio", "VS Code"],
-  architecture: ["SPA", "PWA", "Microservices", "REST APIs"],
-  currentFocus: "Building cross-platform mobile apps with React Native",
-  funFact: "I can debug code while binge-watching Netflix series 🍿",
-  quote: "First, solve the problem. Then, write the code."
-};
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
